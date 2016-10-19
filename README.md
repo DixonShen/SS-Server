@@ -13,6 +13,12 @@
 * password: vs5k88
 *   method: aes-256-cfb 
 
+## JAPAN 3
+*	server: s2.chinass.top
+*	  port: 10020
+* password: W0FLyxUP
+*   method: aes-256-cfb
+
 ## America 2
 *   server: usb.stormss.vip
 *     port: 5174
